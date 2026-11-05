@@ -1,0 +1,126 @@
+{
+  "generated_at": "2026-10-29T16:55:20.9766858+05:30",
+  "note": "Hashes and dimensions describe the existing original files. Last-write time is filesystem metadata.",
+  "screenshots": [
+    {
+      "filename": "00_docker_desktop_initial.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1272,
+      "height": 720,
+      "bytes": 75405,
+      "file_last_write_time": "2026-10-29T16:07:24.3493284+05:30",
+      "sha256": "6ff0ab466462b7b1b528ceb99f9095e92cbb8cd0a945bc1030727eeeac77c971"
+    },
+    {
+      "filename": "01_docker_installation.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1536,
+      "height": 864,
+      "bytes": 58095,
+      "file_last_write_time": "2026-10-29T16:08:05.9184986+05:30",
+      "sha256": "3914dd04cdd1d79f17e20c14c90c340d4a7f5169bf11626037c1dfa654425a8d"
+    },
+    {
+      "filename": "02_docker_containers.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1600,
+      "height": 852,
+      "bytes": 120929,
+      "file_last_write_time": "2026-10-29T16:11:16.9977381+05:30",
+      "sha256": "a988397474ad312ce87fafb1f8cd58e5f79c78b28fda905fad9be760459d5049"
+    },
+    {
+      "filename": "03_redis_create_update_delete.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1536,
+      "height": 864,
+      "bytes": 86573,
+      "file_last_write_time": "2026-10-29T16:12:45.8106761+05:30",
+      "sha256": "3a8fb80124f4743dc494c76121feb2a7c406aa01df01e90eded9b683d9a28fbd"
+    },
+    {
+      "filename": "04_redis_cache_ttl_persistence.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1536,
+      "height": 864,
+      "bytes": 77102,
+      "file_last_write_time": "2026-10-29T16:49:51.3846285+05:30",
+      "sha256": "8bdc18d23bbfa405913c41c6e8fcbab4afce2fd71c98d1e4ac08347c00c682b8"
+    },
+    {
+      "filename": "05_redis_pubsub.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1536,
+      "height": 864,
+      "bytes": 42455,
+      "file_last_write_time": "2026-10-29T16:50:29.8826853+05:30",
+      "sha256": "35035c15a013eebec5bebd00d259eda2c47b00f5442ff11caa4414a984bf1d31"
+    },
+    {
+      "filename": "06_cassandra_keyspace.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 131746,
+      "file_last_write_time": "2026-10-29T16:53:01.6536557+05:30",
+      "sha256": "9332868d97c2995cb4be4c54b144506acc1d6ebe96b5d6b25b48b603f95577e0"
+    },
+    {
+      "filename": "07_cassandra_crud.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1536,
+      "height": 864,
+      "bytes": 83062,
+      "file_last_write_time": "2026-10-29T16:46:52.1255039+05:30",
+      "sha256": "e136039a63e62e4729d1b8c73f6254ed476ada96c1e50ea145b2f4a5f8af7951"
+    },
+    {
+      "filename": "08_mongodb_crud_indexing.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 155457,
+      "file_last_write_time": "2026-10-29T16:52:33.9912770+05:30",
+      "sha256": "a5725ba860e2451de4e0cf5e059f389d8f78b475015475210f0aa8bc16996f67"
+    },
+    {
+      "filename": "12_neo4j_graph_visualization.jpg",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 578,
+      "height": 668,
+      "bytes": 37126,
+      "file_last_write_time": "2026-10-29T16:10:41.9931606+05:30",
+      "sha256": "bc45b6d8ce7fe7e98dbbdec11c2490e0e2b66ac13ab8de4b4abdca74a832d5a2"
+    },
+    {
+      "filename": "13_neo4j_update_delete.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1536,
+      "height": 864,
+      "bytes": 68556,
+      "file_last_write_time": "2026-10-29T16:47:57.2128508+05:30",
+      "sha256": "1f09890c76c8b4c228c8205f7bb7ed9ae52c5bcd2a803f0bccfcb5ae2a114089"
+    },
+    {
+      "filename": "15_all_databases_verified.png",
+      "status": "captured",
+      "evidence_type": "actual application or desktop screenshot",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 121323,
+      "file_last_write_time": "2026-10-29T16:53:19.0218818+05:30",
+      "sha256": "d048f270501412b6266a6407ef84e684368ade9274427be5c88b79c2cc3d8c19"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+HSET seminar:student:101 student_id 101 name "Bharat Yadav" enrollment_no BT24GCS397 course "NoSQL Databases" semester 5
+SET seminar:course:101 "NoSQL Databases"
+SADD seminar:courses "NoSQL Databases"
+HGETALL seminar:student:101
