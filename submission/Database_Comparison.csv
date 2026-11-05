@@ -1,0 +1,5 @@
+﻿Database,Data model,Main strength,Main limitation,Typical use
+Redis,Key–value with rich types,Fast memory access; TTL,RAM cost; durability needs configuration,Cache; session state
+Cassandra,Wide column,Distributed writes and replication,Query driven schema; cluster operations,Events; time series
+MongoDB,BSON documents,Nested data and flexible fields,Indexes and duplication add cost,Content; product catalogs
+Neo4j,Property graph,Relationship traversal and patterns,Memory and graph modeling costs,Fraud; knowledge graphs

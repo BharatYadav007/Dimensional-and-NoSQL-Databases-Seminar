@@ -1,0 +1,9 @@
+.git
+.env
+.venv
+screenshots
+logs
+submission
+*.docx
+*.pptx
+__pycache__
