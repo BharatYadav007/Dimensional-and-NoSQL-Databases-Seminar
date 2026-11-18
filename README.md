@@ -2,7 +2,7 @@
 
 Bharat Yadav · BT24GCS397 · CS 3102 · Semester 5
 
-This folder contains the local database infrastructure and practical CLI demonstrations for `Seminar1.docx`. It follows the University Student Management example in the supplied [shared chat](https://chatgpt.com/share/6ae3202b-2250-83ec-8327-e92ab2f30d67). All Docker files live directly under this Seminar folder; there is no second project folder.
+This folder contains the local database infrastructure and practical CLI demonstrations for `Seminar1.docx`.
 
 The four services use the official database images. A custom Dockerfile is unnecessary because configuration, persistence, and initialization are supplied through Compose and mounted files.
 
