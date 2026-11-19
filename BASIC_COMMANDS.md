@@ -105,7 +105,7 @@ Run in `mongosh` to print every document in the students collection.
 
 ```javascript
 use university
-db.students.find({}).forEach(doc => printjson(doc))
+db.students.find()
 ```
 
 ### Neo4j
